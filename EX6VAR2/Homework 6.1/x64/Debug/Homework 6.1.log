@@ -1,0 +1,7 @@
+﻿  Homework 6.1.cpp
+D:\Новая папка\Homework 6.1\Homework 6.1\Homework 6.1.cpp(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Новая папка\Homework 6.1\Homework 6.1\Homework 6.1.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Новая папка\Homework 6.1\Homework 6.1\Homework 6.1.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  Homework 6.1.vcxproj -> D:\Новая папка\Homework 6.1\x64\Debug\Homework 6.1.exe

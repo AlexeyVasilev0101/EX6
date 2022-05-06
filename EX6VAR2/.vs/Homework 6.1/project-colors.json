@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cca872f-3dfb-40d9-a1f6-f767a9a50e2a": {
+      "ProjectGuid": "6cca872f-3dfb-40d9-a1f6-f767a9a50e2a",
+      "DisplayName": "Homework 6.1",
+      "ColorIndex": 0
+    },
+    "ab7db63d-7651-401b-9df0-2a34f9f8a10a": {
+      "ProjectGuid": "ab7db63d-7651-401b-9df0-2a34f9f8a10a",
+      "DisplayName": "ConsoleApplication1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
